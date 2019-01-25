@@ -3,7 +3,7 @@
 
 This library provides returns Observables for Neo4j queries by wrapping the neo4j-driver JS library.
 
-Theres not definitive guide on whether you should expose the Neo4j Bolt interface to the big, wide, world so this might be a bad idea is misused.
+Theres no definitive guide on whether you should expose the Neo4j Bolt interface to the big, wide, world so this might be a bad idea if misused.
 
 ## Special Thanks
 
