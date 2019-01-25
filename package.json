@@ -1,0 +1,13 @@
+{
+  "name": "ng-neo4j",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "neo4j-driver": "^1.5.0"
+  },
+  "dependencies": {
+    "neo4j-driver": "^1.5.0",
+    "ng-packagr": "^4.6.0"
+  }
+}
